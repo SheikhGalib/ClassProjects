@@ -1,0 +1,128 @@
+Feeling Hungry! Order Now from Resturants Nearby
+1. Customer Login        2. Admin login
+1
+Enter your name : SK. Galib
+Enter your Phone number: 01921820392
+Enter your address : Kuet, 1207
+
+Welcome SK. Galib, 
+Choose a Resturant
+Index    Resturant Name          Resturant type
+1.      Local food Hub          Local Food
+2.      Taste of China          Chinese Food
+3.      Fast Food Corner                Fast Food
+4.      Drinks Delight          Drinks
+5.      Sweet Haven             Desert
+
+Enter index: 1
+
+Choose from Menu
+********************************
+                 Menu
+ ********************************
+
+Index    Item Name               Price
+1       Biryani         10.99
+2       Chuijhal special chicken                5.99
+3       Chuijhal with merinated Duck            9.99
+4       Fresh sea Fish cutlet           11.99
+5       Sundarban special Fish          15.99
+
+
+Enter index: 1
+Here is your Order details
+Resturant name           Resturant Type
+        Local food Hub          Local Food
+Ordered Items
+        Biryani         10.99
+Enter 'y' to confirm order, 'n' to cancel : y
+Your Order Has been Confirmed
+Payment Options
+1. Online Payment        2. Cash on delivery
+1
+Taking to online Gateway....
+Enter Amount : 10.99
+Order Taken Successfully.
+Delivery Man Name : Rahman
+Contact Number: +88019210102912
+Estimated Delivery Time 30 Min.
+....
+........
+............
+...................
+Order is at yout Door Steps, Please Collect it
+
+// Another Section of output for Admin pannel
+Feeling Hungry! Order Now from Resturants Nearby
+1. Customer Login        2. Admin login
+2
+
+Enter password: NGL.NGL.TBH.TBH
+Available Options
+1. Add Resturants 2. Update Resturnats Food Items 3. Display all
+3
+Displaying All resturants With their Menu
+1.      Local food Hub          Local Food
+
+********************************
+                 Menu
+ ********************************
+
+Index    Item Name               Price
+1       Biryani         10.99
+2       Chuijhal special chicken                5.99
+3       Chuijhal with merinated Duck            9.99
+4       Fresh sea Fish cutlet           11.99
+5       Sundarban special Fish          15.99
+
+2.      Taste of China          Chinese Food
+
+********************************
+                 Menu
+ ********************************
+
+Index    Item Name               Price
+1       Vegetable role          4.99
+2       Fried rice              5.99
+3       Chinese soup            7.99
+4       Chinese Chicken         10.99
+5       Dumpling                3.99
+
+3.      Fast Food Corner                Fast Food
+
+********************************
+                 Menu
+ ********************************
+
+Index    Item Name               Price
+1       Burger          5.99
+2       Fried Ckicken           6.99
+3       French Fries            5.99
+4       Noodles         7.99
+5       Pizza           10.99
+
+4.      Drinks Delight          Drinks
+
+********************************
+                 Menu
+ ********************************
+
+Index    Item Name               Price
+1       Lemon Juice             4.99
+2       Orange Juice            5.99
+3       Mango Juice             5.99
+4       Watermelon Juice                7.99
+5       Apple Juice             5.99
+
+5.      Sweet Haven             Desert
+
+********************************
+                 Menu
+ ********************************
+
+Index    Item Name               Price
+1       Rosogolla               10.99
+2       Roshmalay               12.99
+3       Chomchom                12.99
+4       Sondes          11.99
+5       Custard         9.99
